@@ -1,4 +1,4 @@
-# tests-project
+# Blog test project
 
 > Simple Vue.js project for demonstrating test creation
 
